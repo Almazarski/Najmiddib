@@ -1,0 +1,42 @@
+.text1{
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 20px;
+    background-color: aqua;
+}
+.span1{
+    color: red;
+}
+.span2{
+    color: green;
+}
+.p{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+.p2{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.p3{
+    color: green;
+}
+.input{
+    width: 1000px;
+}
+.p4{
+    color: green;
+}
+.input2{
+    background-color: cadetblue;
+}
+.p5{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.inp6{
+    color: white;
+}
